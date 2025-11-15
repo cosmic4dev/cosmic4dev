@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, I'm **[Mason]** 👋  
+### Hi, I'm **Mason Park** 👋  
 AI Researcher focusing on **LLM Alignment**
 
 I study how large language models reason, miscommunicate, and align with human social norms.  
