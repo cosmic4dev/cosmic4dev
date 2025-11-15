@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi, I'm **Mason Park** 👋  
-AI Researcher at **Yonsei University**focusing on **LLM Alignment**
+AI Researcher at **Yonsei University** focusing on **LLM's Socially Alignment**
 
 I study how large language models reason, miscommunicate, and align with human social norms.  
 
