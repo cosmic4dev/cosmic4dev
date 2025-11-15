@@ -48,10 +48,10 @@ _Co-Author — Submitted to LREC 2026_
 
 ## 🛠️ Tech Stack
 **Languages:**  
-`Python` · `JavaS` · `Kotlin` · `SQL`
+`Python` · `Java` · `Kotlin` · `JavaScript`· `SQL`
 
 **Modeling / DL Frameworks:**  
-`PyTorch` · `Transformers` · `PEFT` · 
+`PyTorch` · `Transformers` · `PEFT` · `TensorFlow`
 
 **LLM Work:**  
 `LLaMA` · `Qwen` · `GPT` · `T5/mT5` · `KoBART` · `XLM-R`
@@ -64,17 +64,12 @@ _Co-Author — Submitted to LREC 2026_
 ---
 
 ## 🚀 Selected Projects
-### 🔹 **AEGIS — Harmful Language Detection & Mitigation Pipeline**
-Span-level toxic detector + guided generator with cross-lingual evaluation.
-
-### 🔹 **KRISA — Korean Indirect Speech Act Benchmark**
-Theory-driven ISA tasks for high-context Korean dialogues.
+### 🔹 **LLM Red-Team & Jailbreak Analysis**
+OWASP LLM Top-10, WildJailbreak, HarmBench, DeepEval pipelines.
 
 ### 🔹 **Clarifying Legal Chatbot**
 Ambiguity detection and entropy-based clarification strategy.
 
-### 🔹 **LLM Red-Team & Jailbreak Analysis**
-OWASP LLM Top-10, WildJailbreak, HarmBench, DeepEval pipelines.
 
 ---
 
@@ -89,7 +84,6 @@ OWASP LLM Top-10, WildJailbreak, HarmBench, DeepEval pipelines.
 ## 🌐 Links
 - **Google Scholar:** https://scholar.google.com  
 - **LinkedIn:** https://linkedin.com  
-- **Website / Portfolio:** coming soon  
 - **Email:** cosmic4intelligencel@gmail.com
 
 ---
