@@ -90,7 +90,7 @@ OWASP LLM Top-10, WildJailbreak, HarmBench, DeepEval pipelines.
 - **Google Scholar:** https://scholar.google.com  
 - **LinkedIn:** https://linkedin.com  
 - **Website / Portfolio:** coming soon  
-- **Email:** your.email@domain.com
+- **Email:** cosmic4intelligencel@gmail.com
 
 ---
 
