@@ -27,6 +27,9 @@ I study how large language models reason, miscommunicate, and align with human s
 - **Pragmatics & Indirect Speech Acts** (ISA reasoning, ambiguity detection)
 - **Human-AI Interaction & Social Alignment**
 - **Multilingual NLP** (Korean, English, Mandarin)
+- **LLM failure analysis and evaluation**
+- **Clarification-aware and failure-aware AI systems**
+
 
 ---
 
