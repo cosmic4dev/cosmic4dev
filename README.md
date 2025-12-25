@@ -41,7 +41,7 @@ _First Author — Submitted to EACL 2026_
 - Achieved strong toxicity reduction and semantic preservation  
 - Cross-lingual performance across KO/EN/ZH
 
-### **KRISA: A Theory-Driven Benchmark for Indirect Speech Acts in Korean Dialogue**  
+### **A Theory-Driven Benchmark for Indirect Speech Acts in Dialogue**  
 _Co-Author — Submitted to LREC 2026_  
 - 200 multi-turn dialogues with indirectness, hierarchy, intimacy annotations  
 - Dual-level ISA evaluation 
