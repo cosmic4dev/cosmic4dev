@@ -76,17 +76,11 @@ Ambiguity detection and entropy-based clarification strategy.
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=tokyonight" />
-</p>
 
----
 
 ## 🌐 Links
-- **Google Scholar:** https://scholar.google.com  
-- **LinkedIn:** https://linkedin.com  
+- **Google Scholar:** https:/
+- **LinkedIn:** https://linkedin.com
 - **Email:** cosmic4intelligencel@gmail.com
 
 ---
