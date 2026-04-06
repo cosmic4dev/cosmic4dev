@@ -34,6 +34,15 @@ I study how large language models reason, miscommunicate, and align with human s
 ---
 
 ## 📄 Recent Publications & Works
+
+### **Read the Room, Read the Image: Understanding Indirect Speech Acts in Multimodal Visual Contexts**
+
+_Co-first Author — Accepted to ACL 2026_
+
+- **READI** — multimodal benchmark for **context-dependent indirect speech acts (ISAs)** via vision-based pragmatic QA (V-PQA)
+- Sociopragmatic framing (graded indirectness, dialogue context); grounded in **CCSARP**; **English & Korean**
+- Findings: strong multimodal models still struggle as **indirectness** increases—highlighting the need for **visually grounded pragmatic reasoning**
+
 ### **AEGIS: Awareness-Enhanced Guidance for Iterative Safeguard**  
 _First Author — Submitted to EACL 2026_  
 - Rationale-guided toxic span detection 
