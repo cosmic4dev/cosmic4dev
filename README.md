@@ -17,18 +17,35 @@ Here are some ideas to get you started:
 ### Hi, I'm **Mason Park** 👋  
 AI Researcher at **Yonsei University** focusing on **LLM's Socially Alignment**
 
-I study how large language models reason, miscommunicate, and align with human social norms.  
+I study when and why large language models fail under human judgment, and how to design decision-aware systems that align model behavior with human expectations.
 
 ---
 
 ## 🔬 Research Interests
-- **LLM Safety & Robustness** (jailbreaks, system-level safety, defense evaluation)
-- **Harmful Language Mitigation & Toxic Span Detection**
-- **Pragmatics & Indirect Speech Acts** (ISA reasoning, ambiguity detection)
-- **Human-AI Interaction & Social Alignment**
-- **Multilingual NLP** (Korean, English, Mandarin)
-- **LLM failure analysis and evaluation**
-- **Clarification-aware and failure-aware AI systems**
+
+### 🧠 Understanding LLM Failures
+- Failure modes in reasoning, pragmatics, and multi-turn interaction  
+- Evaluation mismatch between automatic metrics and human judgment  
+- When commonly assumed improvements (e.g., safety, detoxification) help or hurt  
+
+### ⚖️ Decision-aware Modeling & Conditional Behavior
+- Modeling LLM behavior as a conditional decision problem  
+- Strategy selection based on context, intensity, and user intent  
+- When and how intervention (e.g., rewriting, guidance) should be applied  
+
+### 🛡️ Safety, Alignment, and Control
+- LLM safety & robustness (jailbreaks, system-level vulnerabilities)  
+- Harmful language mitigation and span-guided rewriting  
+- Condition-aware and context-sensitive alignment strategies  
+
+### 💬 Pragmatics & Human-AI Interaction
+- Indirect speech acts and pragmatic reasoning  
+- Clarification-aware and ambiguity-aware systems  
+- Human-centered evaluation and interaction design  
+
+### 🌍 Multilingual & Cross-cultural NLP
+- Korean, English, and Mandarin  
+- Cross-lingual differences in pragmatics and alignment  
 
 
 ---
