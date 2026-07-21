@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi, I'm **Mason Park** 👋  
-AI Researcher at **Yonsei University** focusing on **LLM's Socially Alignment**
+AI Researcher at **Yonsei University** focusing on **LLM's Behaviors & Interpretability**
 
 I study when and why large language models fail under human judgment, and how to design decision-aware systems that align model behavior with human expectations.
 
