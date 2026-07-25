@@ -61,11 +61,12 @@ _Co-first Author — Accepted to ACL 2026_
 - Findings: strong multimodal models still struggle as **indirectness** increases—highlighting the need for **visually grounded pragmatic reasoning**
 
 ### **AEGIS: Awareness-Enhanced Guidance for Iterative Safeguard**  
-_First Author — Submitted to EACL 2026_  
-- Rationale-guided toxic span detection 
-- Reflection-based, selective mitigation generator 
-- Achieved strong toxicity reduction and semantic preservation  
-- Cross-lingual performance across KO/EN/ZH
+_First Author — Submitted to EACL 2026; revised as an exploratory analysis_  
+- Modular framework for **span-guided multilingual detoxification** (EN / ZH / KO): fixed span detector + frozen generator backbones  
+- Asks **when span-level guidance helps vs. hurts**, rather than claiming state-of-the-art detoxification  
+- Analyzes **toxicity–meaning trade-offs** across generator families (LLaMA / Qwen), scales, and languages  
+- Treats explicit span rationales as a **controllability mechanism** with conditional benefits and limitations  
+- Code & manuscript: [cosmic4dev/multilingual-hate-detection](https://github.com/cosmic4dev/multilingual-hate-detection)
 
 ### **A Theory-Driven Benchmark for Indirect Speech Acts in Dialogue**  
 _Co-Author — Submitted to LREC 2026_  
