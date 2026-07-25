@@ -61,7 +61,7 @@ _Co-first Author — Accepted to ACL 2026_
 - Findings: strong multimodal models still struggle as **indirectness** increases—highlighting the need for **visually grounded pragmatic reasoning**
 
 ### **AEGIS: Awareness-Enhanced Guidance for Iterative Safeguard**  
-_First Author — arXiv Preprint, 2026**
+_First Author — arXiv Preprint, 2026_
 
 - Proposed a modular framework for span-guided multilingual detoxification
 - Combined intensity-aware span detection with span- and attribute-conditioned generation
