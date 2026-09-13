@@ -14,65 +14,68 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, I'm **Mason Park** 👋  
-AI Researcher at **Yonsei University** focusing on **LLM's Behaviors & Interpretability**
+### Hi, I'm **Mason Park** 👋
 
-I study when and why large language models fail under human judgment, and how to design decision-aware systems that align model behavior with human expectations.
+AI Researcher at **Yonsei University** focusing on **LLM Behavior & Interpretability**.
 
+I study how and why large language models behave differently across context, interaction, and execution conditions, and how these behavioral patterns can be interpreted, evaluated, and controlled.
 ---
 
 ## 🔬 Research Interests
 
-### 🧠 Understanding LLM Failures
-- Failure modes in reasoning, pragmatics, and multi-turn interaction  
-- Evaluation mismatch between automatic metrics and human judgment  
-- When commonly assumed improvements (e.g., safety, detoxification) help or hurt  
+### 🧠 LLM Behavior & Interpretability
+- Context-dependent and conditional model behavior
+- Failure modes in reasoning, pragmatics, tool use, and multi-step interaction
+- Interpreting behavioral differences across models, conditions, and interventions
+- Behavioral analysis of tool-using agents under execution and control constraints
 
-### ⚖️ Decision-aware Modeling & Conditional Behavior
-- Modeling LLM behavior as a conditional decision problem  
-- Strategy selection based on context, intensity, and user intent  
-- When and how intervention (e.g., rewriting, guidance) should be applied  
+### 🤖 Agent Behavior & Evaluation
+- Tool-using LLM agents and multi-step execution
+- Stateful and trajectory-level evaluation
+- Execution control, stopping behavior, and post-completion actions
+- Cost-aware analysis of agent success and failure
 
-### 🛡️ Safety, Alignment, and Control
-- LLM safety & robustness (jailbreaks, system-level vulnerabilities)  
-- Harmful language mitigation and span-guided rewriting  
-- Condition-aware and context-sensitive alignment strategies  
+### 💬 Pragmatics & Human-Centered Evaluation
+- Indirect intent and pragmatic reasoning
+- Human–model disagreement and evaluator mismatch
+- Context-sensitive and ambiguity-aware interaction
 
-### 💬 Pragmatics & Human-AI Interaction
-- Indirect speech acts and pragmatic reasoning  
-- Clarification-aware and ambiguity-aware systems  
-- Human-centered evaluation and interaction design  
-
-### 🌍 Multilingual & Cross-cultural NLP
-- Korean, English, and Mandarin  
-- Cross-lingual differences in pragmatics and alignment  
+### 🛡️ Safety & Controlled Intervention
+- Harmful language mitigation and detoxification
+- Conditional rewriting and intervention
+- Robust and controllable model behavior
 
 
 ---
 
-## 📄 Recent Publications & Works
+## 📄 Recent Publications & Preprints
 
 ### **Read the Room, Read the Image: Understanding Indirect Speech Acts in Multimodal Visual Contexts**
+**Findings of ACL 2026 · Co-first Author**
 
-_Co-first Author — Accepted to ACL 2026_
+A multimodal benchmark for understanding indirect speech acts from visual, conversational, and sociopragmatic context.
 
-- **READI** — multimodal benchmark for **context-dependent indirect speech acts (ISAs)** via vision-based pragmatic QA (V-PQA)
-- Sociopragmatic framing (graded indirectness, dialogue context); grounded in **CCSARP**; **English & Korean**
-- Findings: strong multimodal models still struggle as **indirectness** increases—highlighting the need for **visually grounded pragmatic reasoning**
+- Introduced **READI**, a vision-based pragmatic QA benchmark
+- Evaluated indirect intent understanding across English and Korean
+- Showed that strong multimodal models still struggle as indirectness increases
 
-### **AEGIS: Awareness-Enhanced Guidance for Iterative Safeguard**  
-_First Author — arXiv Preprint, 2026_
+### **AEGIS: Awareness-Enhanced Guidance for Iterative Safeguard**
+**arXiv Preprint · First Author · 2026**
 
-- Proposed a modular framework for span-guided multilingual detoxification
-- Combined intensity-aware span detection with span- and attribute-conditioned generation
-- Identified conditional toxicity–meaning trade-offs across generator families and model scales
-- Evaluated multilingual behavior across English, Mandarin Chinese, and Korean
+A modular framework for span-guided multilingual detoxification.
 
-### **A Theory-Driven Benchmark for Indirect Speech Acts in Dialogue**  
-_Co-Author — Submitted to LREC 2026_  
-- 200 multi-turn dialogues with indirectness, hierarchy, intimacy annotations  
-- Dual-level ISA evaluation 
-- Evaluated GPT-5, Claude-4, LLaMA-3.1, Exaone, and more
+- Combined intensity-aware span detection with conditioned generation
+- Studied toxicity–meaning trade-offs across models and languages
+- Evaluated English, Mandarin Chinese, and Korean
+
+### **When Does Span-Guided Detoxification Help? Human Preferences and Evaluator Diagnostics in a Controlled Comparison**
+**arXiv Preprint · 2026**
+
+A controlled study of when span guidance improves detoxification under human evaluation.
+
+- Compared guided and unguided rewriting under controlled conditions
+- Analyzed disagreement between automatic evaluators and human preferences
+- Examined when stronger intervention helps — and when it does not
 
 ---
 
@@ -94,22 +97,20 @@ _Co-Author — Submitted to LREC 2026_
 ---
 
 ## 🚀 Selected Projects
-### 🔹 **LLM Red-Team & Jailbreak Analysis**
-OWASP LLM Top-10, WildJailbreak, HarmBench, DeepEval pipelines.
+### **Tool-Using Agent Evaluation**
+Empirical analysis of failure, execution behavior, cost, and stopping decisions in multi-step LLM agents.
 
-### 🔹 **Clarifying Legal Chatbot**
-Ambiguity detection and entropy-based clarification strategy.
+### **LLM Red-Team & Jailbreak Analysis**
+Evaluation pipelines based on adversarial and safety benchmarks.
+
+### **Clarifying Legal Chatbot**
+Ambiguity detection and clarification strategies for legal QA systems.
 
 
 ---
 
 
 
-## 🌐 Links
-- **Google Scholar:** https:/
-- **LinkedIn:** https://linkedin.com
+## 🌐 Contacts
 - **Email:** cosmic4intelligencel@gmail.com
 
----
-
-_“Building socially aligned, safe, and pragmatic AI systems—one experiment at a time.”_
