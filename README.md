@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, I'm **Mason Park** 👋
+Hi, I'm **Mason Park** 👋
 
 AI Researcher at **Yonsei University** focusing on **LLM Behavior & Interpretability**.
 I study how and why large language models behave differently across context, interaction, and execution conditions, and how these behavioral patterns can be interpreted, evaluated, and controlled.
