@@ -110,5 +110,5 @@ Ambiguity detection and clarification strategies for legal QA systems.
 
 
 ## 🌐 Contacts
-- **Email:** cosmic4intelligencel@gmail.com
+- **Email:** cosmic4intelligence@gmail.com
 
